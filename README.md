@@ -13,7 +13,11 @@ This repo contains the data collected in a user study that evaluates the effecti
 - scores
 
 ## Interactive Results
-You can directly interact with the results [here](shenghui-chen.com/publication/2023/10/04/deception_user_study/#dashboard).
+You can directly interact with the results using the dashboard below:
+
+<a href="https://shenghui-chen.com/publication/2023/10/04/deception_user_study/#dashboard">
+    <img src="dashboard_screenshot.png" alt="Dashboard" width="700"/>
+</a>
 
 
 Or you can use the notebooks to process and visualize data from the original and the flipped experiment: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vivianchen98/deception_user_study_data/main)
