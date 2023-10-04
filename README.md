@@ -12,11 +12,10 @@ This repo contains the data collected in a user study that evaluates the effecti
 - reaction times
 - scores
 
-## Visualizing the Notebooks with Binder
+## Interactive Results
+You can directly interact with the results [here](shenghui-chen.com/publication/2023/10/04/deception_user_study/#dashboard).
 
-Click the link to launch the notebooks in Binder:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vivianchen98/deception_user_study_data/main)
 
-You can interact with the notebooks that visualize the data from the original and the flipped experiment:
+Or you can use the notebooks to process and visualize data from the original and the flipped experiment: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vivianchen98/deception_user_study_data/main)
 - `plot.ipynb` for the original experiment
 - `flipped_plot.ipynb` for the flipped experiment
