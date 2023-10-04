@@ -1,12 +1,12 @@
-# deception_user_study_data
+# Deception User Study Data
 This repo contains the data collected in a user study that evaluates the effectiveness of deceptive policies.
 
-## Manipulated Variables
+**Manipulated Variables**
 - YES / NO group
 - policy types: True, Decoy, Ambiguity, Exaggeration
 - Entropy weights: 1.5, 6
 
-## Dependent Measures
+**Dependent Measures**
 - correctness
 - confidence
 - reaction times
